@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/31/trunk/area/db2txt
+END
+db2txt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/area/db2txt/db2txt.cpp
+END
+db2txt.plg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/area/db2txt/db2txt.plg
+END
+sqlite3.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/area/db2txt/sqlite3.lib
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/31/trunk/area/db2txt/sqlite3.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/area/db2txt/StdAfx.cpp
+END
+sqlite3ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/area/db2txt/sqlite3ext.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/area/db2txt/ReadMe.txt
+END
+db2txt.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/area/db2txt/db2txt.dsp
+END
+sqlite3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/area/db2txt/sqlite3.dll
+END
+sqlite3.exp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/area/db2txt/sqlite3.exp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/31/trunk/area/db2txt/StdAfx.h
+END
+sqlite3.def
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/area/db2txt/sqlite3.def
+END
